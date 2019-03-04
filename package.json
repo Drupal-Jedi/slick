@@ -1,11 +1,11 @@
 {
-  "name": "slick-carousel",
+  "name": "dj-slick-carousel",
   "version": "1.9.0",
   "description": "the last carousel you'll ever need",
   "main": "slick/slick.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kenwheeler/slick.git"
+    "url": "https://github.com/Drupal-Jedi/slick.git"
   },
   "keywords": [
     "carousel",
@@ -42,7 +42,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kenwheeler/slick/issues"
+    "url": "https://github.com/Drupal-Jedi/slick/issues"
   },
   "peerDependencies": {
     "jquery": ">=1.8.0"
